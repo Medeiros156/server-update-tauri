@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1",
+  "notes": "Test version",
+  "pub_date": "2024-09-16T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2F3SXR3REZVNnE0ZVZ4QkZOZmZzbE9PY0djWE8vWHJsQmpDVXJ3U0xvQkNIUWpiaHRyUG5DTW1jbjZ4Y2t3djZtZDNwaXBSeFhNZGQzM2czKzI1NFUzVHpKZnBQWUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2NTEyMjA1CWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApOQlpsOTBsdEVrb3FhTjFIaVR3cXNNUjNiL0t4MFR0eE5zcGMrdndhQ1Y4VW9vOHVUOWFuZVovd1FvY3hzMmY4M3U0MlBtTU9oekRybkFDTytMYTlEdz09Cg==",
+      "url": "https://localhost:3000/releases/Monitor-Processos-Arriel_0.0.0_x64-setup.exe"
+    }
+  }
+}

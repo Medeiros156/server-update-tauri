@@ -32,11 +32,17 @@ const server = http.createServer((req, res) => {
       } else {
         // Determine the correct content type based on the file extension
         const ext = path.extname(filePath);
-        let contentType = "application/octet-stream";
-        if (ext === ".exe")
+        let contentType = "application/octet-stream"; // Default to binary stream
+
+        if (ext === ".exe") {
           contentType = "application/vnd.microsoft.portable-executable";
-        else if (ext === ".dmg") contentType = "application/x-apple-diskimage";
-        else if (ext === ".AppImage") contentType = "application/x-executable";
+        } else if (ext === ".dmg") {
+          contentType = "application/x-apple-diskimage";
+        } else if (ext === ".AppImage") {
+          contentType = "application/x-executable";
+        } else if (ext === ".zip") {
+          contentType = "application/zip"; // Handling .zip files
+        }
 
         res.writeHead(200, { "Content-Type": contentType });
         res.end(data);

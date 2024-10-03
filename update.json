@@ -1,10 +1,10 @@
 {
   "version": "1.0.2",
   "notes": "Test version",
-  "pub_date": "2024-09-16T12:00:00Z",
+  "pub_date": "2024-10-03T12:00:00Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUY2F3SXR3REZVNnE0ZVZ4QkZOZmZzbE9PY0djWE8vWHJsQmpDVXJ3U0xvQkNIUWpiaHRyUG5DTW1jbjZ4Y2t3djZtZDNwaXBSeFhNZGQzM2czKzI1NFUzVHpKZnBQWUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI2NTEyMjA1CWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApOQlpsOTBsdEVrb3FhTjFIaVR3cXNNUjNiL0t4MFR0eE5zcGMrdndhQ1Y4VW9vOHVUOWFuZVovd1FvY3hzMmY4M3U0MlBtTU9oekRybkFDTytMYTlEdz09Cg==",
+    "windows": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcE9HYWZZR0JZTkdZT3dSbnF1NzR2SVFZUTJzTWJpOUMyTWE4STJHL1U3N3YvYllPQWdoVzJOY0NzTVpvYnpKZzdoa1ppenozVUVVbGpGemxhd1JXbmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTg1MjU1CWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAprY1RjR0hqcDk5UGt6eGtoc3V4ZDJ3czJodFhXYzhvdkozK2xVZ0ZGUjdaUEhWTWhwVkhwbmZnbEhsdkN2WUdUb2ZCaHU2V3Z6cnRXUVBrMzBRQjRDZz09Cg==",
       "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_1.0.2_x64-setup.nsis.zip"
     }
   }

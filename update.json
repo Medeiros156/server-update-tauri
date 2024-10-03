@@ -3,7 +3,7 @@
   "notes": "Test version 2",
   "pub_date": "2024-10-03T12:00:00Z",
   "platforms": {
-    "windows": {
+    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcE04OFFXdUEzc21VaktEdnJhTDkxK2ZLVlJVL0JjNHpIVE5DamNMOGd2cFhiTGFMdjlBaitieVpITHpFbG9WeThTaTBJQTFZUU1jeEV5c1lQOFY4OXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTg2NjUyCWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApCdFkwalRLSjN1ZmxVOFhZOWtEN3JnS3lsT2w4dDFLaGkvdzRhNXFXUHVTYmRReXk1aUNpaHV5ZERyRUVJQmhCNVUzdHVnbDFrbkZjSnNzN1hyRDdBQT09Cg==",
       "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_1.0.5_x64-setup.exe"
     }

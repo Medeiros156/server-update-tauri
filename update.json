@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcE04OFFXdUEzc21VaktEdnJhTDkxK2ZLVlJVL0JjNHpIVE5DamNMOGd2cFhiTGFMdjlBaitieVpITHpFbG9WeThTaTBJQTFZUU1jeEV5c1lQOFY4OXdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTg2NjUyCWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcApCdFkwalRLSjN1ZmxVOFhZOWtEN3JnS3lsT2w4dDFLaGkvdzRhNXFXUHVTYmRReXk1aUNpaHV5ZERyRUVJQmhCNVUzdHVnbDFrbkZjSnNzN1hyRDdBQT09Cg==",
-      "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_1.0.5_x64-setup.exe"
+      "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_1.0.5_x64-setup.nsis.zip"
     }
   }
 }

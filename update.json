@@ -1,11 +1,11 @@
 {
-  "version": "1.0.3",
-  "notes": "Test version",
+  "version": "1.0.5",
+  "notes": "Test version 2",
   "pub_date": "2024-10-03T12:00:00Z",
   "platforms": {
     "windows": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcE9HYWZZR0JZTkdZT3dSbnF1NzR2SVFZUTJzTWJpOUMyTWE4STJHL1U3N3YvYllPQWdoVzJOY0NzTVpvYnpKZzdoa1ppenozVUVVbGpGemxhd1JXbmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTg1MjU1CWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAprY1RjR0hqcDk5UGt6eGtoc3V4ZDJ3czJodFhXYzhvdkozK2xVZ0ZGUjdaUEhWTWhwVkhwbmZnbEhsdkN2WUdUb2ZCaHU2V3Z6cnRXUVBrMzBRQjRDZz09Cg==",
-      "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_1.0.3_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcEhPdUtNaDVycVNLcUI3YlB5cVdRaTJSaWJaN1gxSi9pUFYxQVBTWEZzRi92bmVSWEtGS2JhK2twaTkyOEkyRXU5dFgvTEVPaVhmWW82Njk1c3BUMmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI3OTg1ODU1CWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuMC4wX3g2NC1zZXR1cC5uc2lzLnppcAo3ZzRjQjdmVXB5V3UzaElBc0JnWk83dlVlRjYwUFdHT00ydjlaZ3EwYTFlTTZQQzB3dWYzcU9yODE4S3FwWlhoSFUvUnBYTVhSaUZMUmxZTnJYdVZCQT09Cg==",
+      "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_1.0.5_x64-setup.nsis.zip"
     }
   }
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.9.1",
-  "notes": "Beta version 0.9.1",
+  "version": "0.9.2",
+  "notes": "Beta version 0.9.2",
   "pub_date": "2024-10-03T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcEVrbTNDeGc5WjV1a1VrL2N1Q0VkQmNSV3kwRmMvU1lCWmM3TTJCa0thaVBXUCtRakxhdlNvYTFVYlJXQUJ6dzU1eXVoM1NzT1FQMkNGUnAwK3FxcFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI4NDMxNTg3CWZpbGU6TW9uaXRvci1Qcm9jZXNzb3MtQXJyaWVsXzAuOS4xX3g2NC1zZXR1cC5uc2lzLnppcApCM1FUck9BWGJwU1RqSXgxbWFlVngwODBvTFFuczg4aGFJa3FIMkI4MGRyaVN1MjZUNFpTWnA5aEh0cWF1Q0lzVW5ubDU4cHVVYncvanE1bU82SXJDQT09Cg==",
-      "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_0.9.1_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRVVhiM0FBZXMxcEJzRnpWTzZ4QktqelFkTVFGb0I2RWR0N0o4SUMxTm1lL1lPYjg1TnVTYmRtdTVCRjhxdVl2RWVFL2xzcEVWa3hEb3ZySUJhT0pNMVdJQUFMeHRvaFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MjU5MzcwCWZpbGU6TW9uaXRvciBQcm9jZXNzb3MgQXJyaWVsXzAuOS4yX3g2NC1zZXR1cC5uc2lzLnppcApsQTJqeFQ0V3RodDZxaUV2aCtvTkYwRjkzNDIrOUIrTW9QckRDWGRNYTBFWm9RV250R0RLT1hUSkJDSHFLSWhFUFNzWTZhRUh5UW00S0tTc1E0aXJDdz09Cg==",
+      "url": "https://apiapp.arriel.com.br/releases/Monitor-Processos-Arriel_0.9.2_x64-setup.nsis.zip"
     }
   }
 }
